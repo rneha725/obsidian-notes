@@ -1,0 +1,1 @@
+The main difference is how close the computation is happening once data arrives. In batch processing we are waiting till we receive the data and them start computation. In stream processing, we do the computation as soon as the data arrives.

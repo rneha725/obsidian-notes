@@ -1,0 +1,9 @@
+- **Spec-Driven Development**: Master the ability to write rigorous, unambiguous specifications and implementation plans. A structured markdown blueprint helps keep AI assistants aligned and prevents them from generating unintended code structures.
+- **Learn to Audit a feature**: Look for failures and faults in the systems.
+- Being Human in the Loop;
+	- Avoid falling into a passive mindset that builds "cognitive debt". Treat the model like a brilliant but occasionally hallucinating junior developer—**never accept code you do not fully understand**
+- Try writing the high level logic by yourself to protect the cognitive abilities.
+- Build robustness by introducing testing frameworks.
+- Modular architecture help AI to understand code better, understand it.
+- **Product-Minded Engineering:** Focus intensely on _why_ a feature is being built and how it impacts the end user. Designers and product managers are coding closer to production than ever; developers must meet them halfway by mastering product intuition.
+- **The "Craft" Posture:** As tech philosopher John Maeda notes on [LinkedIn](https://www.linkedin.com/pulse/practicing-craft-keeping-ahead-machine-john-maeda-dh33c), craftsmanship is about choosing thoughtfulness over mere speed, and questions over immediate conclusions

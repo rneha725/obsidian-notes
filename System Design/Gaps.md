@@ -1,0 +1,9 @@
+- Come up a simple solution and then scale, this was you will understand your choices. For example: [link](https://itnext.io/scaling-distributed-counters-designing-a-view-count-system-for-100k-rps-0567f6804900?sk=8b054f6b9dbcf36086ce2951b0085140)
+	- This way you will recall the decisions and the patterns better.
+- Think about bottlenecks and the failures.
+- NFR: consider fault tolerance
+	- For the ad click NFR, we did not consider if we want accuracy.
+- Try to come up with some deep dives by yourself, what you see as the system problems, and the bottlenecks.
+- Cassandra is not a good choice for aggregating the ad click data, although it can be used for high writes.
+	- Cassandra does not have transaction where we can handle two writes on two tables in a transaction.
+- While going deeper, it is good to start from a basic design, even when you are considering options, walk through each, for example, in rate limiter, we needed to discuss where to place it, and why? what type of rate limiting there, how many algorithms are there and when to use which.

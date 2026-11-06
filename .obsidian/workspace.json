@@ -1,0 +1,387 @@
+{
+  "main": {
+    "id": "1282e45f66d3b66f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b41452d023079f53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3d14031aae0ef6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Upskill/The new craft.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "The new craft"
+            }
+          },
+          {
+            "id": "1a1a3b1fcd31f413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Upskill/Tech Blogs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tech Blogs"
+            }
+          },
+          {
+            "id": "441fa280636a808c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Upskill/AI/LLM Fundamentals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "LLM Fundamentals"
+            }
+          },
+          {
+            "id": "c9a4857c108ff6a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/Common System Problems/N + 1 Problem in SQL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "N + 1 Problem in SQL"
+            }
+          },
+          {
+            "id": "5a2d29f14ec75b20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/Common System Problems/S3 Multipart uploads API and presigned URLs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "S3 Multipart uploads API and presigned URLs"
+            }
+          },
+          {
+            "id": "13c90c0aadbb80f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/Numbers to know.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Numbers to know"
+            }
+          },
+          {
+            "id": "19f7340634c719a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/Pattern wise study.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Pattern wise study"
+            }
+          },
+          {
+            "id": "d7fb02cf4dd18696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/Small topic brainstorm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Small topic brainstorm"
+            }
+          },
+          {
+            "id": "c953593f336456b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to study and practice.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "How to study and practice"
+            }
+          },
+          {
+            "id": "1a955230eba71eaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "848e70ca5afaaff0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7bbd19114ff4db1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9845e6a17e2b80b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3cf32ee132dda584",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "web socket",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3056d25b55feae40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.1484375
+  },
+  "right": {
+    "id": "06345334ff28db42",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6dd75708b451d87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d2f1ada3e55a419",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "System Design/Approaching a problem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d7e0e4d936e64f48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "System Design/Approaching a problem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f376e02273d297d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "65c314ce20fa6e44",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "70309b1149a5b21f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "System Design/Small topic brainstorm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "269e3661996df4b0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "d7fb02cf4dd18696",
+  "lastOpenFiles": [
+    "System Design/Pattern wise study.md",
+    "System Design/Numbers to know.md",
+    "System Design/Common System Problems/S3 Multipart uploads API and presigned URLs.md",
+    "System Design/Common System Problems/N + 1 Problem in SQL.md",
+    "Upskill/AI/LLM Fundamentals.md",
+    "Upskill/Tech Blogs.md",
+    "Upskill/The new craft.md",
+    "Tasks.md",
+    "How to study and practice.md",
+    "System Design/Question Bank/[Easy] 0 - Rate Limiter.md",
+    "System Design/Question Bank/[Custom] Ranked Post in Instagram feeds.md",
+    "System Design/Patterns/Untitled 1.md",
+    "System Design/Patterns/Untitled.md",
+    "System Design/Patterns/[Tag] Reliable Messaging and Data Consistency.md",
+    "System Design/Patterns/[Pattern] Fan out on read.md",
+    "System Design/Common System Problems/Hot key problem.md",
+    "System Design/Common System Problems/Dual Writes.md",
+    "LLD-Concurrency/Concurrency Questions.md",
+    "LeetCode/Frequent Code Issues.md",
+    "System Design/Common System Problems/Cache Problems.md",
+    "Motivation.md",
+    "System Design/Question Bank/[Medium] Ticketmaster.md",
+    "System Design/Notes.md",
+    "System Design/Approaching a problem.md",
+    "System Design/Common System Problems/Head of the Line(HOL) Blocking.md",
+    "LeetCode/Progressive Learning/08 Dynamic Programming/Questions.md",
+    "LeetCode/Progressive Learning/08 Dynamic Programming/Questions",
+    "LeetCode/Progressive Learning/01 Graphs - BFS DFS/Questions",
+    "LeetCode/Progressive Learning/17 Math and Geometry",
+    "LeetCode/Progressive Learning/16 Trie",
+    "LeetCode/Progressive Learning/15 Greedy",
+    "LeetCode/Progressive Learning/14 Union-Find",
+    "LeetCode/Progressive Learning/13 Shortest Path",
+    "LeetCode/Progressive Learning/12 Backtracking",
+    "LeetCode/Progressive Learning/11 Linked List",
+    "LeetCode/Progressive Learning/10 Binary Search",
+    "System Design/Images/Pasted image 20261013111043.png",
+    "System Design/Images/Pasted image 20261013110356.png",
+    "System Design/Images/Pasted image 20261012195820.png",
+    "System Design/Images/Pasted image 20261012195338.png",
+    "System Design/Images/Pasted image 20261012185820.png",
+    "System Design/Images/Pasted image 20261003123155.png",
+    "Upskill/AI/Resources/Screenshot 2026-09-20 at 4.01.57 PM.png",
+    "Upskill/AI/Resources/Pasted image 20260920160441.png",
+    "Upskill/AI/Resources/Pasted image 20260920160812.png",
+    "System Design/Common Concepts/Images Used/LSM tree.png"
+  ]
+}

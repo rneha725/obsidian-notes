@@ -1,0 +1,12 @@
+- As the read and write ratio is 1000:1, better to have two services?
+- For uniqueness of the short URLs we need enough entropy, a random generator does not provide us that type of entropy. Longer short code means more entropy.
+- We often use a hash function
+	- hash(long url) -> raw binary, but fixed, like SHA-256
+	- Now we have 256 bits.
+	- If we will choose say, base 64, which means that each character stores, 6 bits. 
+	- So, we can group 256 bits into 6 its group => ~43 characters.
+- When using hash function we will have more chances of collision as we are returning only the prefix of the base 62 encoding.
+- For custom aliases can use a prefix to prevent them from colliding with the system generated URLs.
+- We can use [[Redis]] INCR for an incremental counter
+	- For predictable counter, we can use some transformation 
+	- if we are using 6 digits of 62 base string for 1B we need 6 digits, so we are good here.

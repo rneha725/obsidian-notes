@@ -1,0 +1,11 @@
+- One question that I get while solving these problems is, do I need to have a seat like map, or just number of seats available.
+	- In this question at least it was a seat, so we can store these details in a separate table called ticket.
+	- Booking will have 1 to n mapping with tickets.
+	- Another challenge is defining the status column and how will it work??
+	- [ ] Need to solve this.
+- Other is, say, backend service is connected to the payment gateway, then does client need to send the CC details and other otp the booking service, in that case we need a stateful service right?
+	- The answer is no, this works similar to how we upload on S3, by providing the direct connection to S3 and then let S3 tell us with an event that upload is successful. [[[Pattern] Handling Large Blobs]].
+	- So when client starts a booking the request goes to the booking service, service then creates an order_id with payment gateway. 
+	- Server sends back this order id to the client, and client then gets redirected to this gateway page, gateway in turn connects to the back, then this page needs otp etc.
+	- Once done, client gets redirected and gateway calls a webhook which connects to some payment service, which updates the payment data of the booking.
+- Also for lock handling, we have used Redis as the lock, and used OCC on the rows. [article](https://www.hellointerview.com/learn/system-design/problem-breakdowns/ticketmaster#1-how-do-we-improve-the-booking-experience-by-reserving-tickets)

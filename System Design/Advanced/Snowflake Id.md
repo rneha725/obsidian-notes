@@ -1,0 +1,1 @@
+Chronologically UUIDs. Not possible to collide

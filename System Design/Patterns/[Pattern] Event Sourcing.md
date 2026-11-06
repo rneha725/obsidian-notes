@@ -1,0 +1,1 @@
+Maintaining the system state(db) using the events. So these events can be replayed and the state can be built again.
